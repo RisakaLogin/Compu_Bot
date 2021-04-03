@@ -1,0 +1,41 @@
+[History]
+1 | [3] Cool Steel
+2 | [3] Emerald Orb
+3 | [3] Cool Steel
+4 | [3] Skyrider Sword
+5 | [3] Black Tassel
+6 | [3] Slingshot
+7 | [3] Sharpshooter's Oath
+8 | [3] Thrilling Tales of Dragon Slayers
+9 | [3] Slingshot
+10 | [4] The Flute
+11 | [3] Raven Bow
+12 | [3] Harbinger of Dawn
+13 | [3] Slingshot
+14 | [3] Emerald Orb
+15 | [3] Harbinger of Dawn
+16 | [3] Ferrous Shadow
+17 | [3] Cool Steel
+18 | [3] Bloodtainted Greatsword
+19 | [4] Lisa
+20 | [3] Sharpshooter's Oath
+21 | [3] Thrilling Tales of Dragon Slayers
+22 | [3] Sharpshooter's Oath
+23 | [3] Slingshot
+24 | [3] Skyrider Sword
+25 | [4] Amber
+26 | [3] Slingshot
+27 | [3] Bloodtainted Greatsword
+28 | [3] Ferrous Shadow
+29 | [3] Magic Guide
+30 | [4] Chongyun
+31 | [3] Magic Guide
+32 | [3] Harbinger of Dawn
+33 | [3] Thrilling Tales of Dragon Slayers
+34 | [3] Debate Club
+35 | [3] Thrilling Tales of Dragon Slayers
+36 | [3] Slingshot
+37 | [3] Slingshot
+38 | [3] Black Tassel
+39 | [4] Favonius Codex
+40 | [3] Slingshot
